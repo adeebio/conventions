@@ -23,7 +23,7 @@ var myVariable = 0;
 UpperCamelCase
 
 ```javascript
-function Apple (type) {
+function Apple(type) {
   this.type     = type;
   this.color    = "red";
   this.getInfo  = getAppleInfo;
@@ -81,7 +81,7 @@ Underscore:
 2 spaces.
 
 ```javascript
-function Apple (type) {
+function Apple(type) {
   this.type     = type;
   this.color    = "red";
   this.getInfo  = getAppleInfo;
