@@ -25,7 +25,7 @@ Some examples:
 // A comment related to myVariable... The quick brown fox jumped over the lazy dog.
 // The quick brown fox jumped over the lazy dog. The quick brown fox jumped over
 // the lazy dog.
-var myVariable = 0 // The quick brown fox jumped over the lazy dog.;
+var myVariable = 0;
 ```
 
 ## Naming
