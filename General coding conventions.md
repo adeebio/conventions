@@ -8,6 +8,26 @@
 
 ## Formatting
 
+### Line length
+
+The length of a line should be 80 characters starting from, and including, the
+first significant character. Characters at the beginning of the line related to
+formatting the layout do not count. Tip: writing "1234567890" eight times can
+easily and quickly give you the 80 character bounds.
+
+Some examples:
+
+```javascript
+
+// |==============================  80  characters  ==============================|
+// 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+// A comment related to myVariable... The quick brown fox jumped over the lazy dog.
+// The quick brown fox jumped over the lazy dog. The quick brown fox jumped over
+// the lazy dog.
+var myVariable = 0 // The quick brown fox jumped over the lazy dog.;
+```
+
 ## Naming
 
 ### Variables etc.
