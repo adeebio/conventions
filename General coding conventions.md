@@ -8,6 +8,27 @@
 
 ## Formatting
 
+### Brackets
+
+By examples...
+
+#### Function arguments
+
+```javascript
+function myFunction(a, b) {
+  sum = a + b;
+  return sum;
+}
+```
+
+#### Loops
+
+```javascript
+for (i = 0; i < 5; i++) {
+    text += "The number is " + i + "<br>";
+}
+```
+
 ### Line length
 
 The length of a line should be 80 characters long, starting from, and including,
@@ -38,8 +59,8 @@ function myFunction(a, b) {
   // The quick brown fox jumped over the lazy dog. The quick brown fox jumped over
   // the lazy dog.
 
-  sum = a + b;  // This length of this line includes the code and the comment.
-  return sum;   // This line can be up to -------------------------------- this long.
+  sum = a + b;  // The length of this line includes the code and this comment.
+  return sum;   // This line can be up to ................................ this long.
 }
 ```
 
