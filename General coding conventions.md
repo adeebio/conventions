@@ -125,7 +125,7 @@ const fruit_pear;
 
 ### Hyphen vs underscore
 
-Hyphen:
+#### Hyphen:
 
 - Keeps the words on either side distinct.
 - Should replace spaces where when they would have ordinarily been used.
@@ -134,7 +134,7 @@ Hyphen:
   - Folder names.
   - File named not named after internal code content.
 
-Underscore:
+#### Underscore:
 
 - Merges the two words on either side.
 - Should be used when creating something that should be considered one entity, e.g. a variable name.
