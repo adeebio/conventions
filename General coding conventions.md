@@ -28,6 +28,21 @@ Some examples:
 var myVariable = 0;
 ```
 
+```javascript
+
+function myFunction(a, b) {
+  // |==============================  80  characters  ==============================|
+  // 12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+  // A comment related to myFunction... The quick brown fox jumped over the lazy dog.
+  // The quick brown fox jumped over the lazy dog. The quick brown fox jumped over
+  // the lazy dog.
+
+  sum = a + b;  // This length of this line includes the code and the comment.
+  return sum;   // This line can be up to -------------------------------- this long.
+}
+```
+
 ## Naming
 
 ### Variables etc.
