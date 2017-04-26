@@ -64,6 +64,19 @@ function myFunction(a, b) {
 }
 ```
 
+```javascript
+/*
+|==============================  80  characters  ==============================|
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+*/
+
+var myVar = 0; // A single line comment example looks like this.
+
+var myVar2;       // Comments for lines of code in a block look like this.
+var myVariable3;  // They contribute towards the total line length.
+var myVarFour;    // They are aligned to two spaces after the longest code line.
+```
+
 ## Naming
 
 ### Variables etc.
