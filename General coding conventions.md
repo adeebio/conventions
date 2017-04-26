@@ -10,9 +10,9 @@
 
 ### Line length
 
-The length of a line should be 80 characters starting from, and including, the
-first significant character. Characters at the beginning of the line related to
-formatting the layout do not count. Tip: writing "1234567890" eight times can
+The length of a line should be 80 characters long, starting from, and including,
+the first significant character. Characters at the beginning of the line related
+to formatting the layout do not count. Tip: writing "1234567890" eight times can
 easily and quickly give you the 80 character bounds.
 
 Some examples:
