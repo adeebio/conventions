@@ -9,9 +9,11 @@
 
 | `an_example_name` | `An_example_name` | `AN_EXAMPLE_NAME` | `anExampleName`   | `AnExampleName`   |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| variables (etc)   | (instantiable) classes | constants    |                   |                   |
+| variables (etc)   | classes<sup>[1]</sup>| constants         |                   |                   |
 | functions (etc)   |                   | definitions       |                   |                   |
 | objects           |                   |                   |                   |                   |
+
+[1] - Instantiable classes.
 
 ### Hyphen vs underscore
 
