@@ -3,6 +3,7 @@
 ## Contents
 
   * [Naming styles](#naming-styles)
+  * [Hyphen vs underscore](#Hyphen-vs-underscore)
 
 ## Naming styles
 
@@ -31,19 +32,3 @@
   - Variable / function / Class names.
   - File names named after internal code content.
   - Groupings, in code and otherwise.
-
-## Spacing
-
-### Block indentation
-
-2 spaces.
-
-```javascript
-function Apple(type) {
-  this.type     = type;
-  this.color    = "red";
-  this.getInfo  = getAppleInfo;
-}
-
-var apple = new Apple('Macintosh');
-```
