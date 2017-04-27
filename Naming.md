@@ -9,7 +9,7 @@
 
 | `an_example_name` | `An_example_name` | `AN_EXAMPLE_NAME` | `anExampleName`   | `AnExampleName`   |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| variables (etc)   | classes           | constants         |                   |                   |
+| variables (etc)   | (instantiable) classes | constants    |                   |                   |
 | functions (etc)   |                   | definitions       |                   |                   |
 | objects           |                   |                   |                   |                   |
 
