@@ -15,6 +15,18 @@ lowerCamelCase
 var myVariable = 0;
 ```
 
+### Functions etc.
+
+lowerCamelCase
+
+```javascript
+function add(a, b) {
+  return a + b;
+}
+
+var sumOf2And3 = add(2, 3);
+```
+
 ### Classes etc.
 
 UpperCamelCase
