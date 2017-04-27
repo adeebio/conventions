@@ -1,4 +1,4 @@
-# Conventions - Formatting
+# Formatting
 
 ## Contents
 
@@ -24,6 +24,22 @@ function myFunction(a, b) {
 for (i = 0; i < 5; i++) {
     text += "The number is " + i + "<br>";
 }
+```
+
+## Spacing
+
+### Block indentation
+
+2 spaces.
+
+```javascript
+function Apple(type) {
+  this.type     = type;
+  this.color    = "red";
+  this.getInfo  = getAppleInfo;
+}
+
+var apple = new Apple('Macintosh');
 ```
 
 ## Line length
