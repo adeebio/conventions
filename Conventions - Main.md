@@ -20,11 +20,11 @@ var myVariable = 0;
 lowerCamelCase
 
 ```javascript
-function add(a, b) {
+function addTwoNumbers(a, b) {
   return a + b;
 }
 
-var sumOf2And3 = add(2, 3);
+var sumOf2And3 = addTwoNumbers(2, 3);
 ```
 
 ### Classes etc.
