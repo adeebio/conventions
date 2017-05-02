@@ -22,3 +22,7 @@ should be corrected when convenient.
 #### Additional conventions:
 
 - [Formatting](Formatting.md)
+
+### References
+
+[deWiTTERS Tao of Coding](http://www.koonsolo.com/news/dewitters-tao-of-coding/)
