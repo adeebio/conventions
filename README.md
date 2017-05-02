@@ -25,4 +25,4 @@ should be corrected when convenient.
 
 ### References
 
-[deWiTTERS Tao of Coding](http://www.koonsolo.com/news/dewitters-tao-of-coding/)
+- [deWiTTERS Tao of Coding](http://www.koonsolo.com/news/dewitters-tao-of-coding/)
