@@ -23,6 +23,8 @@ should be corrected when convenient.
 
 - [Formatting](Formatting.md)
 
-### References
+---
+
+#### References
 
 - [deWiTTERS Tao of Coding](http://www.koonsolo.com/news/dewitters-tao-of-coding/)
