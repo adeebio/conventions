@@ -26,6 +26,6 @@
 
 ---
 
-#### References
+### References
 
 - [acronis.com - Illegal Characters on Various Operating Systems](https://kb.acronis.com/content/39790)
