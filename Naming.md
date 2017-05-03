@@ -93,9 +93,9 @@ Names of things such as:
 
 __*UNLESS*__ ... it can be considered a title. In which case, all lowercase, no spaces, hyphens or underscores. For example:
 
-- 'mycoolapp.com'
-- 'myusername@domain.com'
-- '@myhandle'
+- `mycoolapp.com`
+- `myusername@domain.com`
+- `@myhandle`
 
 ### Quick reference
 
