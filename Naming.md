@@ -10,16 +10,30 @@
 
 ### Quick reference
 
-| `an_example_name` | `An_example_name` | `AN_EXAMPLE_NAME` | `anExampleName`   | `AnExampleName`   |
+| `anExampleName`   | `AnExampleName`   | `AN_EXAMPLE_NAME` | `an_example_name` | `An_example_name` |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| variables (etc)   |                   | constants         |                   | classes [1]       |
-| functions (etc)   |                   | definitions       |                   | types             |
+| variables (etc)   | classes [1]       | constants         |                   |                   |
+| functions (etc)   | types             | definitions       |                   |                   |
 | classes [2]       |                   |                   |                   |                   |
 | objects           |                   |                   |                   |                   |
 | structures        |                   |                   |                   |                   |
 
-[1] - Instantiable classes.  
-[2] - Functional classes.
+[1] - Classes that can be instantiated.  
+[2] - Classes that are treated as functions or used as namespaces.
+
+### Groupings
+
+An (additional) underscore is used for groupings.
+
+'''javascript
+var  fruit_apple;
+var  fruit_banana;
+var  fruit_pear;
+
+const  PHYSICS__STANDARD_GRAVITY  9.81;
+const  PHYSICS__SPEED_OF_LIGHT    299792458;
+
+'''
 
 ### Details
 
