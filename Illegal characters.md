@@ -1,5 +1,12 @@
 # Illegal characters
 
+### Summary
+
+Don't use any of the following:
+
+`/`, `?`, `<`, `>`, `\`, `:`, `*`, `|`, `"` & `^`.
+
+
 ### Windows
 
 - NTFS: `/`, `?`, `<`, `>`, `\`, `:`, `*`, `|`, `"` and any character you can type with the Ctrl key.
