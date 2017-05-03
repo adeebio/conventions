@@ -41,15 +41,36 @@ const  PHYSICS__SPEED_OF_LIGHT    299792458;
 ### Quick reference
 
 ```
-+ root
++ aFolderContainingCode
   - main.js
   + scripts
     - main.js
-    - another_script.js
-    - and_another.js
-    + even_more
-      - additional_1.js
-      - additional_2.js
+    - anotherScript.js
+    - andAnother.js
+    + evenMore
+      - additional1.js
+      - additional2.js
+      - ...
+      
++ group_codingFolder1
++ group_codingFolder2
++ group_codingFolder3
+
++ A folder containing regular files
+  - Introduction.txt
+  - Contents.txt
+  - Chapter One.txt
+  - ...
+  
++ A_folder_containing_regular_files
+  - Introduction.txt
+  - Contents.txt
+  - Chapter_one.txt
+  - ...
+  
++ Group__Regular Folder 1
++ Group__Regular Folder 2
++ Group__Regular Folder 3
 ```
 
 ## Hyphen vs underscore
