@@ -21,6 +21,7 @@ should be corrected when convenient.
 
 #### Additional conventions:
 
+- [Commenting](Commenting.md)
 - [Formatting](Formatting.md)
 
 ---
