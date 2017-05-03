@@ -8,6 +8,8 @@
 
 ## Code
 
+### Quick reference
+
 | `an_example_name` | `An_example_name` | `AN_EXAMPLE_NAME` | `anExampleName`   | `AnExampleName`   |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 | variables (etc)   |                   | constants         |                   | classes [1]       |
@@ -19,7 +21,11 @@
 [1] - Instantiable classes.  
 [2] - Functional classes.
 
+### Details
+
 ## Files and folders
+
+### Quick reference
 
 ```
 + root
