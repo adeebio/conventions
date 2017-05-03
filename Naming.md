@@ -4,6 +4,7 @@
 
   * [Code](#code)
   * [Files and folders](#files-and-folders)
+  * [Names of things](#names-of-things)
   * [Hyphen vs underscore](#hyphen-vs-underscore)
 
 ## Code
@@ -76,6 +77,27 @@ const  PHYSICS__SPEED_OF_LIGHT    299792458;
 ### Groupings
 
 A hyphen is used for groupings. (See the quick reference of this section.)
+
+## Names of things
+
+Names of things such as:
+
+- Git repositories.
+- Domain names.
+- ...
+
+... should be in lower case with words separated with hyphens. For example:
+
+- `my-git-repository`
+- `my-lambda-function.aws.com`
+
+__*UNLESS*__ ... it can be considered a title. In which case, all lowercase, no spaces, hyphens or underscores. For example:
+
+- 'mycoolapp.com'
+- 'myusername@domain.com'
+- '@myhandle'
+
+### Quick reference
 
 ## Hyphen vs underscore
 
