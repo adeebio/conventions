@@ -3,19 +3,25 @@
 ## Contents
 
   * [Naming styles](#naming-styles)
+  * [Files and folders](#Files-and-folders)
   * [Hyphen vs underscore](#Hyphen-vs-underscore)
 
-## Naming styles
+## Code
 
 | `an_example_name` | `An_example_name` | `AN_EXAMPLE_NAME` | `anExampleName`   | `AnExampleName`   |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| variables (etc)   | classes [1]       | constants         |                   |                   |
-| functions (etc)   |                   | definitions       |                   |                   |
+| variables (etc)   |                   | constants         |                   | classes [1]       |
+| functions (etc)   |                   | definitions       |                   | types             |
+| classes [2]       |                   |                   |                   |                   |
 | objects           |                   |                   |                   |                   |
+| structures        |                   |                   |                   |                   |
 
 [1] - Instantiable classes.
+[2] - Functional classes.
 
-### Hyphen vs underscore
+## Files and folders
+
+## Hyphen vs underscore
 
 #### Hyphen:
 
