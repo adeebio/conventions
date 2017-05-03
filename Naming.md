@@ -91,11 +91,13 @@ Names of things such as:
 - `my-git-repository`
 - `my-lambda-function.aws.com`
 
-__*UNLESS*__ ... it can be considered a title. In which case, all lowercase, no spaces, hyphens or underscores. For example:
+__*UNLESS*__ ... it can be considered a title. In which case, all lowercase, no spaces or underscores. Hypens for grouping. For example:
 
 - `mycoolapp.com`
 - `myusername@domain.com`
 - `@myhandle`
+- `@company-product1`
+- `@company-product2`
 
 ### Quick reference
 
