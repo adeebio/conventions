@@ -16,8 +16,7 @@
 | objects           |                   |                   |                   |                   |
 | structures        |                   |                   |                   |                   |
 
-[1] - Instantiable classes.
-
+[1] - Instantiable classes.  
 [2] - Functional classes.
 
 ## Files and folders
