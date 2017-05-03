@@ -2,7 +2,7 @@
 
 ## Contents
 
-  * [Naming styles](#naming-styles)
+  * [Code](#Code)
   * [Files and folders](#Files-and-folders)
   * [Hyphen vs underscore](#Hyphen-vs-underscore)
 
