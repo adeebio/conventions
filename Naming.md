@@ -51,10 +51,9 @@ const  PHYSICS__SPEED_OF_LIGHT    299792458;
       - additional1.js
       - additional2.js
       - ...
-      
-+ group_codingFolder1
-+ group_codingFolder2
-+ group_codingFolder3
+  + group_codingFolder1
+  + group_codingFolder2
+  + group_codingFolder3
 
 + A folder containing regular files
   - Introduction.txt
