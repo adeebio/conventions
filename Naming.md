@@ -73,6 +73,9 @@ const  PHYSICS__SPEED_OF_LIGHT    299792458;
   + Group_-_Regular_Folder_2
   + Group_-_Regular_Folder_3
 ```
+### Groupings
+
+A hyphen is used for groupings. (See the quick reference of this section.)
 
 ## Hyphen vs underscore
 
