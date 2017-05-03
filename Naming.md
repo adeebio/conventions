@@ -2,9 +2,9 @@
 
 ## Contents
 
-  * [Code](#Code)
-  * [Files and folders](#Files-and-folders)
-  * [Hyphen vs underscore](#Hyphen-vs-underscore)
+  * [Code](#code)
+  * [Files and folders](#files-and-folders)
+  * [Hyphen vs underscore](#hyphen-vs-underscore)
 
 ## Code
 
@@ -17,6 +17,7 @@
 | structures        |                   |                   |                   |                   |
 
 [1] - Instantiable classes.
+
 [2] - Functional classes.
 
 ## Files and folders
