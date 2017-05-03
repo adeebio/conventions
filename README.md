@@ -26,7 +26,7 @@ should be corrected when convenient.
 
 #### Other:
 
-- [Illegal characters](Illegal characters.md)
+- [Illegal characters](Illegal%20characters.md)
 - [Formatting](Formatting.md)
 
 ---
