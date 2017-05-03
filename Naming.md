@@ -86,7 +86,7 @@ Names of things such as:
 - Domain names.
 - ...
 
-... should be in lower case with words separated with hyphens. For example:
+... should be in lower case with the words separated with hyphens. For example:
 
 - `my-git-repository`
 - `my-lambda-function.aws.com`
