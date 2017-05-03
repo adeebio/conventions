@@ -25,7 +25,7 @@
 
 An (additional) underscore is used for groupings.
 
-'''javascript
+''' javascript
 var  fruit_apple;
 var  fruit_banana;
 var  fruit_pear;
