@@ -24,6 +24,11 @@ should be corrected when convenient.
 - [Commenting](Commenting.md)
 - [Formatting](Formatting.md)
 
+#### Other:
+
+- [Illegal characters](Illegal characters.md)
+- [Formatting](Formatting.md)
+
 ---
 
 #### References
