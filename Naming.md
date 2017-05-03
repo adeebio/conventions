@@ -61,16 +61,18 @@ const  PHYSICS__SPEED_OF_LIGHT    299792458;
   - Contents.txt
   - Chapter One.txt
   - ...
+  + Group - Regular Folder 1
+  + Group - Regular Folder 2
+  + Group - Regular Folder 3
   
 + A_folder_containing_regular_files
   - Introduction.txt
   - Contents.txt
   - Chapter_one.txt
   - ...
-  
-+ Group__Regular Folder 1
-+ Group__Regular Folder 2
-+ Group__Regular Folder 3
+  + Group_-_Regular_Folder_1
+  + Group_-_Regular_Folder_2
+  + Group_-_Regular_Folder_3
 ```
 
 ## Hyphen vs underscore
