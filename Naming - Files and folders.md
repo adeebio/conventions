@@ -15,6 +15,10 @@ For folders containing (mostly) code. Example:
       - additional1.js
       - additional2.js
       - ...
+    + classes
+      - MyClass1.js
+      - MyClass2.js
+      - ...
   + group_codingFolder1
   + group_codingFolder2
   + group_codingFolder3
