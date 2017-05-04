@@ -2,7 +2,7 @@
 
 ### `lowerCaseWithCaps`
 
-Example:
+For folders containing (mostly) code. Example:
 
 ```
 + aFolderContainingCode
@@ -22,7 +22,7 @@ Example:
 
 ### `As normal`
 
-Example:
+For folders containing (mostly) normal files. Example:
 
 ```
 + A folder containing regular files
@@ -37,7 +37,7 @@ Example:
 
 ### `As_normal_with_underscores`
 
-Example:
+For folders containing (mostly) normal files but where spaces might be an issue. Eample:
 
 ```
 + A_folder_containing_regular_files
