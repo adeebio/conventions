@@ -19,7 +19,7 @@ should be corrected when convenient.
 
 - [Naming - Code](Naming%20-%20Code.md)
 - [Naming - Files and folders](Naming%20-%20Files%20and%20folders.md)
-- [Naming - Misc](Naming%20-%20mMisc.md)
+- [Naming - Misc](Naming%20-%20Misc.md)
 
 #### Additional conventions:
 
