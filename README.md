@@ -30,9 +30,4 @@ should be corrected when convenient.
 #### Other:
 
 - [Illegal characters](Illegal%20characters.md)
-
----
-
-#### References
-
-- [deWiTTERS Tao of Coding](http://www.koonsolo.com/news/dewitters-tao-of-coding/)
+- [Hyphens vs underscores](Hyphens%20vs%20underscores.md)
