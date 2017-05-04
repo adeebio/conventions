@@ -1,13 +1,4 @@
-# Naming
-
-## Contents
-
-  * [Code](#code)
-  * [Files and folders](#files-and-folders)
-  * [Names of things](#names-of-things)
-  * [Hyphen vs underscore](#hyphen-vs-underscore)
-
-## Code
+# Naming - Code
 
 ### Quick reference
 
