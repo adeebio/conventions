@@ -11,13 +11,13 @@
 
 ### Quick reference
 
-| `anExampleName`   | `AnExampleName`   | `AN_EXAMPLE_NAME` | `an_example_name` | `An_example_name` |
-| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| variables (etc)   | classes [1]       | constants         |                   |                   |
-| functions (etc)   | types             | definitions       |                   |                   |
-| classes [2]       |                   |                   |                   |                   |
-| objects           |                   |                   |                   |                   |
-| structures        |                   |                   |                   |                   |
+| `anExampleName`   | `AnExampleName`   | `AN_EXAMPLE_NAME` |
+| ----------------- | ----------------- | ----------------- |
+| variables (etc)   | classes [1]       | constants         |
+| functions (etc)   | types             | definitions       |
+| classes [2]       |                   |                   |
+| objects           |                   |                   |
+| structures        |                   |                   |
 
 [1] - Classes that can be instantiated.  
 [2] - Classes that are treated as functions or used as namespaces.
