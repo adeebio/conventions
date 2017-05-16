@@ -1,5 +1,7 @@
 # Naming - Misc
 
+## Misc naming conventions and when they are used
+
 ### `lower-case-with-hyphens`
 
 This is the go-to naming convention for miscellaneous things.
@@ -27,3 +29,10 @@ This is the go-to naming convention for things that can be considered a title or
 - Social media handles.
   - @myhandle
   - @group-myhandle
+
+## Capitalisation, titles and sentences
+
+- Titles should be capitalised as sentences.
+  - Capitalise the first character of the first word.
+  - Capitalise proper nouns.
+  - (TBC)
