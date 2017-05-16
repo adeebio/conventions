@@ -25,3 +25,11 @@ var  fruit_pear;
 const  PHYSICS__STANDARD_GRAVITY  9.81;
 const  PHYSICS__SPEED_OF_LIGHT    299792458;
 ```
+
+### Acronyms
+
+Acronyms should be lowercase with the first letter capitalised when neccessary.
+
+```javascript
+var googleUrl = 'https://google.com';
+```
