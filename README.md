@@ -1,7 +1,5 @@
 # Conventions
 
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-
 When starting a new project, knowing what conventions to adhere to can be
 frustrating. There are often more than one prospective set of conventions for
 each programming language and the conventions between languages are almost
