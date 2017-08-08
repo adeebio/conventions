@@ -1,8 +1,17 @@
 # Conventions
 
-This collection of files detail a ...
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-The main driving force ...
+When starting a new project, knowing what conventions to adhere to can be
+frustrating. There are often more than one prospective set of conventions for
+each programming language and the conventions between languages are almost
+always different. For this reason, a set of conventions have been assembled that
+are to be used no matter what programming language is being used. This has the
+advantage that when a new project is started, there is no time or energy spent
+on deciding what set of conventions to use. In addition, it has the benifit that
+there is cross-language convention consistency. This is nice in projects where
+there is more than one language being used and also keeps conventions to bear in
+mind to a minimum.
 
 The conventions are split into two groups, the _essential conventions_ and the
 _additional conventions_. The essential conventions are regarded as the ones you
