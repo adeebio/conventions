@@ -2,7 +2,7 @@
 
 ### Summary
 
-Don't use any of the following:
+Do not use any of the following characters when naming files or folders:
 
 `/`, `?`, `<`, `>`, `\`, `:`, `*`, `|`, `"` and `^`.
 
