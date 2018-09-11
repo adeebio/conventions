@@ -41,7 +41,7 @@ For folders containing (mostly) normal files. Example:
 
 ### `As_normal_with_underscores`
 
-For folders containing (mostly) normal files but where spaces might be an issue. Eample:
+For folders containing (mostly) normal files but where spaces might be an issue. Example:
 
 ```
 + A_folder_containing_regular_files
