@@ -34,9 +34,9 @@ for (i = 0; i < 5; i++) {
 
 ```javascript
 function Apple(type) {
-    this.type     = type;
-    this.color    = "red";
-    this.getInfo  = getAppleInfo;
+    this.type    = type;
+    this.color   = "red";
+    this.getInfo = getAppleInfo;
 }
 
 var apple = new Apple('Macintosh');
