@@ -13,8 +13,8 @@ By examples...
 
 ```javascript
 function myFunction(a, b) {
-  sum = a + b;
-  return sum;
+    sum = a + b;
+    return sum;
 }
 ```
 
@@ -30,13 +30,13 @@ for (i = 0; i < 5; i++) {
 
 ### Block indentation
 
-2 spaces.
+4 spaces.
 
 ```javascript
 function Apple(type) {
-  this.type     = type;
-  this.color    = "red";
-  this.getInfo  = getAppleInfo;
+    this.type     = type;
+    this.color    = "red";
+    this.getInfo  = getAppleInfo;
 }
 
 var apple = new Apple('Macintosh');
