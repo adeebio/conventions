@@ -18,12 +18,12 @@
 An (additional) underscore is used for groupings.
 
 ```javascript
-var  fruit_apple;
-var  fruit_banana;
-var  fruit_pear;
+var fruit_apple;
+var fruit_banana;
+var fruit_pear;
 
-const  PHYSICS__STANDARD_GRAVITY  9.81;
-const  PHYSICS__SPEED_OF_LIGHT    299792458;
+const PHYSICS__STANDARD_GRAVITY 9.81;
+const PHYSICS__SPEED_OF_LIGHT   299792458;
 ```
 
 ### Acronyms
