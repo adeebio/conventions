@@ -3,13 +3,15 @@
 When starting a new software project, knowing what conventions to adhere to can
 be frustrating. There are often more than one prospective set of conventions for
 each programming language and the conventions between languages are almost
-always different. For this reason, a set of conventions are proposed here that
-are to be used no matter what programming language(s) is being used. This has
-the advantage that when a new project is started, there is no time or energy
-spent on deciding what set of conventions to use. In addition, it has the
-benefit that there is cross-language convention consistency. This is nice in
-projects where there is more than one language being used and also keeps
-conventions to bear in mind to a minimum.
+always different. For this reason, proposed here is a set of conventions that
+should be viable no matter what programming language is being used. This has the
+following benefits:
+
+- When starting a new project, possibly in a new language, no time needs to be
+spent on deciding what set of conventions to use.
+- There is a consistency in the conventions used between languages. This is
+particularly nice in projects where there is more than one language being used.
+- It keeps the amount of conventions to have in mind to a minimum.
 
 The conventions are split into two groups, the _essential conventions_ and the
 _additional conventions_. The essential conventions are regarded as the ones you
