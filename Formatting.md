@@ -85,7 +85,7 @@ function myFunction(a, b) {
 
 var myVar = 0; // A single line comment example looks like this.
 
-var myVar2;       // Comments for lines of code in a block look like this.
-var myVariable3;  // They contribute towards the total line length.
-var myVarFour;    // They are aligned to two spaces after the longest code line.
+var myVar2;      // Comments for lines of code in a block look like this.
+var myVariable3; // They contribute towards the total line length.
+var myVarFour;   // They are aligned to one spaces after the longest code line.
 ```
