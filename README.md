@@ -4,8 +4,8 @@ When starting a new software project, knowing what conventions to adhere to can
 be frustrating. There are often more than one prospective set of conventions for
 each programming language and the conventions between languages are almost
 always different. For this reason, proposed here is a set of conventions that
-should be viable no matter what programming language is being used. This has the
-following benefits:
+should be viable no matter what programming language is being used. Adopting
+such a universal set of conventions has the following benefits:
 
 - When starting a new project, possibly in a new language, no time needs to be
 spent on deciding what set of conventions to use.
