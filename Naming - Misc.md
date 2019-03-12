@@ -35,4 +35,4 @@ This is the go-to naming convention for things that can be considered a title or
 - Titles should be capitalised as sentences.
   - Capitalise the first character of the first word.
   - Capitalise proper nouns.
-  - (TBC)
+  - No period at the end.
