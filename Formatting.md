@@ -73,7 +73,7 @@ function myFunction(a, b) {
   // the lazy dog.
 
   sum = a + b;  // The length of this line includes the code and this comment.
-  return sum;   // This line can be up to ................................ this long.
+  return sum;   // This line can be up to .............................................. this long.
 }
 ```
 
