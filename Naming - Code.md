@@ -1,10 +1,10 @@
 # Naming - Code
 
-### General identifiers
+### Identifiers
 
 | Example name      | Identifiers |
 | ----------------- | ----------- |
-| `anExampleName`   | <ul><li>variables (properties, etc)</li><li>functions (methods, etc)</li><li>classes [2]</li><li>objects</li><li>structures</li></ul> | 
+| `anExampleName`   | <ul><li>variables (etc)</li><li>functions (etc)</li><li>classes [2]</li><li>objects</li><li>structures</li></ul> | 
 | `AnExampleName`   | <ul><li>classes [1]</li><li>types</li></ul> | 
 | `AN_EXAMPLE_NAME` | <ul><li>constants</li><li>definitions</li></ul> | 
 
