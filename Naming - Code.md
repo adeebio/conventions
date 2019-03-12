@@ -1,14 +1,12 @@
 # Naming - Code
 
-### Quick reference
+### General identifiers
 
-| `anExampleName`   | `AnExampleName`   | `AN_EXAMPLE_NAME` |
-| ----------------- | ----------------- | ----------------- |
-| variables (etc)   | classes [1]       | constants         |
-| functions (etc)   | types             | definitions       |
-| classes [2]       |                   |                   |
-| objects           |                   |                   |
-| structures        |                   |                   |
+| Example name      | Identifiers |
+| ----------------- | ----------- |
+| `anExampleName`   | <ul><li>variables (etc)</li><li>functions (etc)</li><li>classes [2]</li><li>objects</li><li>structures</li></ul> | 
+| `AnExampleName`   | <ul><li>classes [1]</li><li>types</li></ul> | 
+| `AN_EXAMPLE_NAME` | <ul><li>constants</li><li>definitions</li></ul> | 
 
 [1] - Classes that can be instantiated.  
 [2] - Classes that are treated as functions or used as namespaces.
