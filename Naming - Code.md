@@ -4,12 +4,12 @@
 
 | Example name      | Identifiers |
 | ----------------- | ----------- |
-| `anExampleName`   | <ul><li>variables (etc)</li><li>functions (etc)</li><li>classes [2]</li><li>objects</li><li>structures</li></ul> | 
+| `anExampleName`   | <ul><li>variables (properties, etc)</li><li>functions (methods, etc)</li><li>classes [2]</li><li>objects</li><li>structures</li></ul> | 
 | `AnExampleName`   | <ul><li>classes [1]</li><li>types</li></ul> | 
 | `AN_EXAMPLE_NAME` | <ul><li>constants</li><li>definitions</li></ul> | 
 
 [1] - Classes that can be instantiated.  
-[2] - Classes that cannot / are not to be instantiated.
+[2] - Classes that cannot / are not meant to be instantiated. For example, a class consisting solely of static functions.
 
 ### Groupings
 
