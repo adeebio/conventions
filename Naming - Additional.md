@@ -1,10 +1,10 @@
 # Naming - Additional
 
-### Let function names breathe
+### Let identifier names breathe
 
-Naming functions in an expanded, rather than compacted, way, makes them easier
+Naming identifiers in an expanded, rather than compacted, way, makes them easier
 to read and understand. For example:
 
 - Example 1:
-    - Compacted: `checkAndRespondToAChangeAxisStateRequest()`
-    - Expanded: `checkAndRespondToARequestToChangeTheAxisState()`
+    - Compacted: `checkAndRespondToAChangeMachineStateRequest()`
+    - Expanded: `checkAndRespondToARequestToChangeTheMachineState()`
