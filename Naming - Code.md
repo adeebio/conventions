@@ -9,7 +9,7 @@
 | `AN_EXAMPLE_NAME` | <ul><li>constants</li><li>definitions</li></ul> | 
 
 [1] - Classes that can be instantiated.  
-[2] - Classes that are treated as functions or used as namespaces.
+[2] - Classes that cannot / are not to be instantiated.
 
 ### Groupings
 
