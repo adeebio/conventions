@@ -18,9 +18,9 @@
 .
 
 - paths should begin with one of the following:
-    - '\' - Root of the current drive.
-    - '.\' - Current directory.
-    - '..\' - Parent of the current directory.
+    - `\` - Root of the current drive.
+    - `.\` - Current directory.
+    - `..\` - Parent of the current directory.
 
 ### Let identifier names breathe
 
