@@ -14,6 +14,8 @@
 - directorypath
     - dirpath
     - dip
+    
+.
 
 - paths should begin with one of the following:
     - '\' - Root of the current drive.
