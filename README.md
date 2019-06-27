@@ -1,7 +1,7 @@
 # Conventions
 
-When starting a new software project, knowing what conventions to adhere to can
-be frustrating. There are often more than one prospective set of conventions for
+Choosing a set of conventions for a (new or existing) software project can be
+frustrating. There are often more than one prospective set of conventions for
 each programming language and the conventions between languages are almost
 always different. For this reason, proposed here is a set of conventions that
 should be viable no matter what programming language is being used. Adopting
