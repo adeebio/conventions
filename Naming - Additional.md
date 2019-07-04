@@ -8,10 +8,10 @@
 - Directory name
     - dirname
     - din
-- filepath
+- File path
     - filepath
     - fip
-- directorypath
+- Directory Path
     - dirpath
     - dip
     
@@ -21,6 +21,7 @@
     - `\` - Root of the current drive.
     - `.\` - Current directory.
     - `..\` - Parent of the current directory.
+- Directory paths should not end in a delimiting character, e.g. `/`, `\`, etc.
 
 ### Let identifier names breathe
 
