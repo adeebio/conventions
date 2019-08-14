@@ -9,7 +9,7 @@
 | **`AN_EXAMPLE_NAME`** | <ul><li>constants</li><li>definitions</li></ul> | 
 
 [1] - Classes that can be instantiated.  
-[2] - Classes that cannot / are not meant to be instantiated. For example, a class consisting solely of static functions.
+[2] - Classes that cannot / must not be instantiated. For example, a class consisting solely of static functions.
 
 ### Groupings
 
