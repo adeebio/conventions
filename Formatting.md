@@ -3,6 +3,7 @@
 ## Contents
 
   * [Brackets](#brackets)
+  * [Spacing](#spacing)
   * [Line length](#line-length)
 
 ## Brackets
@@ -44,7 +45,7 @@ var apple = new Apple('Macintosh');
 
 ## Line length
 
-The length of a line should be 80 characters long, starting from, and including,
+The length of a line should be 80 characters long starting from, and including,
 the first significant character. Characters at the beginning of the line related
 to formatting the layout do not count. Tip: writing "1234567890" eight times can
 easily and quickly give you the 80 character bounds.
@@ -87,5 +88,5 @@ var myVar = 0; // A single line comment example looks like this.
 
 var myVar2;      // Comments for lines of code in a block look like this.
 var myVariable3; // They contribute towards the total line length.
-var myVarFour;   // They are aligned to one spaces after the longest code line.
+var myVarFour;   // They are aligned to one space after the longest code line.
 ```
