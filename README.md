@@ -21,7 +21,7 @@ ones that you can correct for at a later date, without too much trouble. So to
 get up and running with these conventions as quickly as possible, read all the
 essential conventions and then get going. Later, read and adopt the additional
 conventions. Work that does not adhere to the essential conventions should be
-corrected immediately. Work that does not adhere to the essential conventions
+corrected immediately. Work that does not adhere to the additional conventions
 should be corrected when convenient. 
 
 #### Essential conventions:
