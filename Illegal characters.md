@@ -4,13 +4,12 @@
 
 Do not use any of the following characters when naming files or folders:
 
-`/`, `?`, `<`, `>`, `\`, `:`, `*`, `|`, `"` and `^`.
-
+`\`, `|`, `/`, `<`, `^`, `>`, `"`, `*`, `?` and `:`.
 
 ### Windows
 
 - NTFS: `/`, `?`, `<`, `>`, `\`, `:`, `*`, `|`, `"` and any character you can type with the Ctrl key.
-- FAT: " + `^`.
+- FAT: NTFS + `^`.
 
 - NTFS: File and folder names: Up to 256 characters long.
 - FAT: File and folder names: Up to 255 characters long.
