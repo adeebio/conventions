@@ -4,7 +4,7 @@
 
 Do not use any of the following characters when naming files or folders:
 
-`\`, `|`, `/`, `<`, `^`, `>`, `"`, `*`, `?` and `:`.
+`\`, `|`, `/`, `<`, `^`, `>`, `"`, `:`, `*` and `?`.
 
 ### Windows
 
